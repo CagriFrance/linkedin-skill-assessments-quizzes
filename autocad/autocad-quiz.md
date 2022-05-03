@@ -204,7 +204,7 @@
 
 #### Q30. When plotting in AutoCAD, the default plotting style is a color-dependent plot style table (CTB). You can also use named plot style tables (STB). You can change a CTB drawing to an STB drawing using which command?
 
-- [ ] CONVERTPSTYLES
+- [x] CONVERTPSTYLES
 - [ ] CONVSTYLES
 - [ ] CONVERTPLOT
 - [ ] CONVPLOTSTYLE
